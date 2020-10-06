@@ -34,3 +34,5 @@ pip install dlib
 ### 4. ติดตั้ง Kubernetes บน Raspbery Pi
 
 [Setup a Kubernetes 1.9.0 Raspberry Pi cluster on Raspbian using Kubeadm](https://kubecloud.io/setup-a-kubernetes-1-9-0-raspberry-pi-cluster-on-raspbian-using-kubeadm-f8b3b85bc2d1)
+### 5. เชื่อมต่อกับ Database
+[Simple Face Recognizing System using python and openCV](https://dev.to/pranay749254/simple-face-recognizing-system-using-python-and-opencv)
