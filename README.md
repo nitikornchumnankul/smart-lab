@@ -1,5 +1,15 @@
 # smart-lab
 
+## Dependencies
+
+### opencv-python 4.4.0.44 (import cv2)
+```
+pip install opencv-python
+```
+### numpy
+```
+pip install numpy
+```
 
 # References
 
