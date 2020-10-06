@@ -10,6 +10,10 @@ pip install opencv-python
 ```
 pip install numpy
 ```
+### dlib 19.21.0
+```
+pip install dlib
+```
 
 # References
 
