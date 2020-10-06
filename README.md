@@ -17,3 +17,6 @@ Remote Desktop แสดงหน้า Desktop ของ Raspberry pi
 
 [VNC (Virtual Network Computing)](https://www.raspberrypi.org/documentation/remote-access/vnc/)
 
+ติดตั้ง Kubernetes บน Raspbery Pi
+
+[Setup a Kubernetes 1.9.0 Raspberry Pi cluster on Raspbian using Kubeadm](https://kubecloud.io/setup-a-kubernetes-1-9-0-raspberry-pi-cluster-on-raspbian-using-kubeadm-f8b3b85bc2d1)
