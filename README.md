@@ -1,5 +1,5 @@
 # smart-lab
-## ทำความเข้าใจเรื่อง การเปิด และ ปิด
+## [ทำความเข้าใจเรื่อง การเปิด และ ปิด](https://github.com/nitikornchumnankul/smart-lab/blob/main/Face_DLIB/Face_DLIB.py)
 ### 1. เชื่อมต่อ Serial Port 
 [("/dev/ttyUSB0", 9600) คืออะไร](https://www.youtube.com/watch?v=iyQgmmtIAXQ)
 
