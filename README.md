@@ -1,23 +1,30 @@
 # smart-lab
 ## วิธีการใช้ Git
+### 1. ตั้งค่า username
 ```
-git config --global user.name 
+git config --global user.name "username"
 ```
+### 2. ตั้งค่า email
 ```
-git config --global user.email
+git config --global user.email "email@domain.com"
 ```
+### 3. ดึงโค้ดลงมาบนเครื่อง local computer
 ```
-git clone 
+git clone https://github.com/nitikornchumnankul/smart-lab.git
 ```
+### 4. บันทึกสิ่งที่แก้ไข โค้ดทั้งหมด
 ```
 git add .
 ```
+### 5. เช็คว่าโค้ดได้ถูกบันทึก ทั้งหมดหรือยัง
 ```
 git status
 ```
+### 6. บันทึกโค้ดที่แก้ไข เพราะระบุข้อความ
 ```
 git commit -m "ข้อความการแก้ไข"
 ```
+### 7. นำโค้ดส่งไปยัง Github repository
 ```
 git push
 ```
