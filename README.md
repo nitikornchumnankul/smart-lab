@@ -1,4 +1,17 @@
 # smart-lab
+## ทำความเข้าใจเรื่อง การเปิด และ ปิด
+### 1. เชื่อมต่อ Serial Port 
+[("/dev/ttyUSB0", 9600) คืออะไร](https://www.youtube.com/watch?v=iyQgmmtIAXQ)
+
+```
+serialPort = serial.Serial("/dev/ttyUSB0", 9600) 
+```
+### 2. Function สิ่งเปิด ปิด
+```
+def sw1Pressed():
+    serialPort.write("SW1 Pressed".encode('utf-8'))
+```
+
 ## วิธีการใช้ Git
 ### 1. ตั้งค่า username
 ```
