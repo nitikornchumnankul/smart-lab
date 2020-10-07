@@ -36,3 +36,8 @@ pip install dlib
 [Setup a Kubernetes 1.9.0 Raspberry Pi cluster on Raspbian using Kubeadm](https://kubecloud.io/setup-a-kubernetes-1-9-0-raspberry-pi-cluster-on-raspbian-using-kubeadm-f8b3b85bc2d1)
 ### 5. เชื่อมต่อกับ Database
 [Simple Face Recognizing System using python and openCV](https://dev.to/pranay749254/simple-face-recognizing-system-using-python-and-opencv)
+
+### 6. เนื้อหา OpenCV-Face-Recognition
+[Source Code ตัวอย่าง](https://github.com/Mjrovai/OpenCV-Face-Recognition)
+
+![OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition/raw/master/FaceRecogBlock.png?raw=true)
