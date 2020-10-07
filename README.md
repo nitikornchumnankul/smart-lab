@@ -41,3 +41,9 @@ pip install dlib
 [Source Code ตัวอย่าง](https://github.com/Mjrovai/OpenCV-Face-Recognition)
 
 ![OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition/raw/master/FaceRecogBlock.png?raw=true)
+
+### 7. Python Face Recognition connected mysql database
+
+[Source Code ตัวอย่าง](https://github.com/wilztan/PythonFaceRecognition)
+
+
