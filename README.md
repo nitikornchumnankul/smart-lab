@@ -34,15 +34,18 @@ pip install dlib
 ### 4. ติดตั้ง Kubernetes บน Raspbery Pi
 
 [Setup a Kubernetes 1.9.0 Raspberry Pi cluster on Raspbian using Kubeadm](https://kubecloud.io/setup-a-kubernetes-1-9-0-raspberry-pi-cluster-on-raspbian-using-kubeadm-f8b3b85bc2d1)
-### 5. เชื่อมต่อกับ Database
+### 5. วิธีติดตั้ง Mysql Server on local computer
+[How to install MySQL database server 8.0.19 on Windows 10](https://www.sqlshack.com/how-to-install-mysql-database-server-8-0-19-on-windows-10/)
+
+### 6. เชื่อมต่อกับ Database
 [Simple Face Recognizing System using python and openCV](https://dev.to/pranay749254/simple-face-recognizing-system-using-python-and-opencv)
 
-### 6. เนื้อหา OpenCV-Face-Recognition
+### 7. เนื้อหา OpenCV-Face-Recognition
 [Source Code ตัวอย่าง](https://github.com/Mjrovai/OpenCV-Face-Recognition)
 
 ![OpenCV-Face-Recognition](https://github.com/Mjrovai/OpenCV-Face-Recognition/raw/master/FaceRecogBlock.png?raw=true)
 
-### 7. Python Face Recognition connected mysql database
+### 8. Python Face Recognition connected mysql database
 
 [Source Code ตัวอย่าง](https://github.com/wilztan/PythonFaceRecognition)
 
