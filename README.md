@@ -1,4 +1,7 @@
 # smart-lab
+## แนวคิดของ พัท
+![แนวคิดของ พัท](https://github.com/nitikornchumnankul/smart-lab/blob/main/idea.png)
+
 ## [ทำความเข้าใจเรื่อง การเปิด และ ปิด](https://github.com/nitikornchumnankul/smart-lab/blob/main/Face_DLIB/Face_DLIB.py)
 ### [1. เชื่อมต่อ Serial Port](https://www.raspberrypi.org/forums/viewtopic.php?t=64968) 
 [("/dev/ttyUSB0", 9600) คืออะไร](https://www.youtube.com/watch?v=iyQgmmtIAXQ)
