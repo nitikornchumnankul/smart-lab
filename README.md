@@ -6,6 +6,24 @@
 ```
 serialPort = serial.Serial("/dev/ttyUSB0", 9600) 
 ```
+จะใช้ K3s ต่อกับ Serial port อย่างไร [Stack Overflow](https://stackoverflow.com/questions/57818941/kubernetes-pod-serial-communication-problem)
+
+![k3s serial port](https://i.imgur.com/RHhlD4S.png)
+
+```
+containers:
+  - name: acm
+    securityContext:
+      privileged: true
+    volumeMounts:
+    - mountPath: /dev/ttyACM0
+      name: ttyacm
+  volumes:
+  - name: ttyacm
+    hostPath:
+      path: /dev/ttyACM0
+```
+
 ### 2. Function สิ่งเปิด ปิด
 ```
 def sw1Pressed():
