@@ -1,5 +1,26 @@
 # smart-lab
-
+## วิธีการใช้ Git
+```
+git config --global user.name 
+```
+```
+git config --global user.email
+```
+```
+git clone 
+```
+```
+git add .
+```
+```
+git status
+```
+```
+git commit -m "ข้อความการแก้ไข"
+```
+```
+git push
+```
 ## Dependencies
 
 ### opencv-python 4.4.0.44 (import cv2)
