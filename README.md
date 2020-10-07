@@ -3,6 +3,8 @@
 ### [1. เชื่อมต่อ Serial Port](https://www.raspberrypi.org/forums/viewtopic.php?t=64968) 
 [("/dev/ttyUSB0", 9600) คืออะไร](https://www.youtube.com/watch?v=iyQgmmtIAXQ)
 
+ttyUSB means "USB serial port adapter" and the "0" (or "1" or whatever) is the device number. ttyUSB0 is the first one found, ttyUSB1 is the second etc. (Note that if you have two similar devices, then the ports that they are plugged into may affected the order they are detected in, and so the names).
+
 ```
 serialPort = serial.Serial("/dev/ttyUSB0", 9600) 
 ```
